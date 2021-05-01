@@ -13,7 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Motorfras">
-        <activity android:name=".SelectDeviceActivity"></activity>
+        <activity android:name=".Startsida"></activity>
+        <activity android:name=".SelectDeviceActivity" />
         <activity android:name=".MainActivity" />
     </application>
 
